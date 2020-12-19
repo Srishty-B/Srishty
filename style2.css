@@ -1,0 +1,51 @@
+
+
+
+
+body{
+   text-align: center;
+   font-style: italic;
+  
+   
+/*background-color : #BAABBD;*/
+background: url("page1 pom.jpg") no-repeat center center fixed ;
+background-size: cover;
+/*background-position: center;*/
+background-repeat: no-repeat;
+}
+.web{
+	align-self: center;
+	padding: 15px 0px 0px 0px;
+}
+
+	h1{
+		color: #baabbd;
+		font-size: 400%;
+		font-family: 'Indie Flower', cursive;
+
+		/*cursor: url("lena1.png") ,auto;*/
+	}
+h3{
+	color : #689ba0;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.sign
+{
+	text-align: left;
+}
+.s
+{
+	text-align: right;
+}
+h2
+{   
+	color: #baabbd;
+	 font-family: 'Indie Flower', cursive;
+
+}
+.wel{
+	
+}
